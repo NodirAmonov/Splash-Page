@@ -1,4 +1,4 @@
 # Splash-Page
 
 
-You can view live version [here](https://splash-draft.netlify.app)
+You can view a live version [here](https://splash-draft.netlify.app)
